@@ -24,8 +24,8 @@ This project uses machine learning and Power BI to predict and visualize flight 
   - Scatterplot and error visualizations
 
 ## 📸 Dashboard Preview
-![flight_price_prediction_dashboard](https://github.com/user-attachments/assets/2208299c-2ae3-407b-afcd-18618344ec66)
-
+![flight_price_prediction_dashboard](./Screenshot.png)
+![flight_price_prediction_dashboard](./Screenshot1.png)
 ---
 
 ## ✅ How to Run
